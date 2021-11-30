@@ -3,6 +3,7 @@
   * ':' -> 'ñ'
   * '/' -> '-'
   * '-' -> '''
+  * '&' -> '/'
  
 # Instalación (Debian)
   Requisitos:
