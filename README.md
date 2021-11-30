@@ -13,7 +13,8 @@
  ```
   Comandos:
  ```
- sudo apt update && sudo apt install git
+ sudo apt update
+ sudo apt install git -y
  git clone https://github.com/Ezee1015/My_Screen_Fix
  cd My_Screen_Fix
  bash INSTALL.sh
